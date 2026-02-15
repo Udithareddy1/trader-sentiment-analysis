@@ -31,3 +31,14 @@ Analyze how Bitcoin market sentiment (Fear vs Greed) impacts trader behavior and
 
 ## How to Run
 1. Install requirements:
+2. Run notebook:
+
+---
+
+Analysis performed using Python (Pandas, NumPy, Seaborn, Scikit-learn).
+
+
+
+
+## How to Run
+1. Install requirements:
